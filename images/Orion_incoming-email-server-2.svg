@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Incoming Email Server</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer3"
+  d="M2 10v36h28a15.99 15.99 0 0 1 26-12.479V10z" fill="#5ac8fa"></path>
+  <path data-name="opacity" d="M29 30.641L2 10v36h28a15.99 15.99 0 0 1 26-12.479V10z"
+  fill="#fff" opacity=".3"></path>
+  <circle data-name="layer2" cx="46" cy="46" r="16" fill="#5ac8fa"></circle>
+  <path data-name="layer1" d="M46 53a1 1 0 0 1-1-1V38a1 1 0 0 1 2 0v14a1 1 0 0 1-1 1z"
+  fill="#ffffff"></path>
+  <path data-name="layer1" d="M46 54.362l-6.6-6.6a1 1 0 0 1 1.414-1.414L46 51.534l5.189-5.189a1 1 0 0 1 1.411 1.414z"
+  fill="#ffffff"></path>
+  <path data-name="opacity" d="M30 46a15.935 15.935 0 0 1 4.493-11.1L23.393 46zm5.176-11.783l-.276.276c.094-.09.193-.174.289-.263z"
+  fill="#000064" opacity=".15"></path>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Calls</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer1"
+  d="M58.909 47.037c-1.313-.9-9.191-6.012-10.4-6.807a4.833 4.833 0 0 0-6.53 1.278c-2.351 2.9-5.253 7.741-16.239-3.247s-6.149-13.889-3.247-16.238a4.834 4.834 0 0 0 1.279-6.531c-.795-1.209-5.909-9.088-6.808-10.4s-2.116-3.447-4.926-3.042C9.955 2.351 2 6.577 2 15.562s7.083 20.007 16.757 29.681S39.454 62 48.438 62s13.211-7.955 13.512-10.038c.405-2.81-1.728-4.025-3.041-4.925z"
+  fill="#5ac8fa"></path>
+</svg>
